@@ -2,7 +2,7 @@
 //  BigWalletApp.swift
 //  BigWallet
 //
-//  Created by Alfred Lotsu on 04/06/2025.
+//  Created by Alfred Lotsu on 02/06/2025.
 //
 
 import SwiftUI
